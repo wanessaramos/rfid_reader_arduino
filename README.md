@@ -25,7 +25,7 @@
 - [x] select serial port
 - [x] upload project
 
-<h1>IMAGE PROJECT</h1>
+## Project Image 
 <div align="center" style="display:inline_block">
   <img height="auto" width="auto" src="https://github.com/wanessaramos/rfid_reader_arduino/blob/main/image/rfid_project_image.png"/>  
 </div>
