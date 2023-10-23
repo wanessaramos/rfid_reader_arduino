@@ -2,6 +2,7 @@
 
 ## Requirement
 
+- [x] IDE ARDUINO
 - [x] ESP32 devkit V1
 - [x] DISPLAY OLED 128x64 0.96
 - [x] RFID RC522
